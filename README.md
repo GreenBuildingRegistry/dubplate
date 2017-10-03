@@ -257,10 +257,10 @@ Congratulations you just brought Banana Yoshimoto, Moshi, Moshi, hardback!
 ### Dubplate?
 Wikipedia:
 
-**"A dubplate is an acetate disc – usually 10 inches in diameter – used in
+*"A dubplate is an acetate disc – usually 10 inches in diameter – used in
 mastering studios for quality control and test recordings before proceeding
 with the final master, and subsequent pressing of the record to be
-mass-produced on vinyl."**"
+mass-produced on vinyl."*
 
 Dubplates play an important part in Jamaican Reggae soundsystem culture, and
 other musical genres influenced by it. The term is used to refer to the acetate
