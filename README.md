@@ -19,7 +19,7 @@ an Address record to ensure addresses are stored in a commmon format.
 ## Example:
 a record type MyRecord  has the fields 'a'& 'b', a compulsory
 extra attribute 'c' and an optional attribute 'd'
-
+```
 >>> my_record = MyRecord('c', d='d', a='a', b='b')
 >>> my_record['a']
 a
@@ -27,7 +27,7 @@ a
 2
 >>> my_record.c     # not part of record so doesn't effect len etc
 c
-
+```
 This class is not intended for use directly, it should be subclassed, to
 correspond to the particular use case.
 
@@ -141,7 +141,7 @@ book = {
     'author': 'Banana Yoshimoto',
     'title': 'Moshi Moshi',
     'isbn': '978-1-61902-786-2',
-    'price': $25,
+    'price': 25,
     'type': 'hardback',
 }
 ```
