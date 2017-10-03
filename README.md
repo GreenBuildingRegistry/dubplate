@@ -269,5 +269,5 @@ other musical genres influenced by it. The term is used to refer to the acetate
 discs or tracks that a limited number of people such as DJ's have the clout to
 get hold of.
 
-As there is already a Python called Vinyl package we went with dubplate as a
+As there is already a Python package called Vinyl we went with dubplate as a
 tribute to some of our favourite sounds.
