@@ -6,6 +6,11 @@ copyright (c) 2016 Earth Advantage. All rights reserved.
 """
 
 # Imports from Standard Library
+try:
+    from typing import Sequence, Mapping, Optional
+except ImportError:
+    pass
+
 import datetime
 import json
 
@@ -369,7 +374,7 @@ class Record(object):
         return "<{}, {}>".format(self.__class__.__name__, self.__record._dict)
 
     def __contains__(self, name):
-        """Does name exisit in db record?"""
+        """Does name exist in db record?"""
         return name in self.__record
 
     def __eq__(self, other):
